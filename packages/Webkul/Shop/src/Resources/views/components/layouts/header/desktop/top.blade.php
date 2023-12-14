@@ -25,7 +25,7 @@
     </x-shop::dropdown>
 
     <p class="text-xs font-medium">
-        Get UPTO 40% OFF on your 1st order <a href="{{ route('shop.home.index') }}" class="underline">SHOP NOW</a>
+    Raden Katering menerima order Nasi Box, Nasi kotak, dan menu lainya.  <a href="{{ route('shop.home.index') }}" class="underline">Pesan Sekarang</a>
     </p>
 
     <!-- Locales Switcher -->
